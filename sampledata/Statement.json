@@ -1,0 +1,22 @@
+{
+    "Statement": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "text": {
+                        "S": "Hi"
+                    },
+                    "in_response_to": {
+                        "S": "Inrepsonse to"
+                    },
+                    "created_at": {
+                        "S": "2015-09-15T19:58:22.947Z"
+                    },
+                    "extra_data": {
+                        "S": "Extra data here"
+                    }
+                }
+            }
+        }
+    ]
+}

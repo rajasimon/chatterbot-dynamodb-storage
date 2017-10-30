@@ -1,0 +1,19 @@
+{
+    "Response": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "text": {
+                        "S": "Hi"
+                    },
+                    "created_at": {
+                        "S": "2015-09-15T19:58:22.947Z"
+                    },
+                    "occurrence": {
+                        "N": "1"
+                    }
+                }
+            }
+        }
+    ]
+}
